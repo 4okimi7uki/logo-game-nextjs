@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "Logo Game",
     description:
         "If you are an engineer or a hacker, you probably know a lot of programming languages, middleware, tools, and so on. Many of them have their own logos. This game challenges you to identify the correct logo names for each question.",
-    icons: { icon: "" },
+    icons: { icon: "./favicon.ico" },
 };
 
 export default function RootLayout({
