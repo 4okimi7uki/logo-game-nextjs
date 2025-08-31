@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": "React",
+        "url": "/img/react.svg"
+    },
+    {
+        "id": 2,
+        "name": "Angular",
+        "url": "/img/Angular.png"
+    },
+    {
+        "id": 3,
+        "name": "Docker",
+        "url": "/img/docker.png"
+    },
+    {
+        "id": 4,
+        "name": "Go",
+        "url": "/img/Go.svg"
+    },
+    {
+        "id": 5,
+        "name": "Kubernetes",
+        "url": "/img/kubernetes.png"
+    },
+    {
+        "id": 6,
+        "name": "Laravel",
+        "url": "/img/laravel.avif"
+    },
+    {
+        "id": 7,
+        "name": "Nginx",
+        "url": "/img/nginx.png"
+    },
+    {
+        "id": 8,
+        "name": "Node.js",
+        "url": "/img/nodejs.svg"
+    },
+    {
+        "id": 9,
+        "name": "Python",
+        "url": "/img/python.png"
+    },
+    {
+        "id": 10,
+        "name": "Ruby",
+        "url": "/img/ruby.avif"
+    },
+    {
+        "id": 11,
+        "name": "Rust",
+        "url": "/img/rust.avif"
+    },
+    {
+        "id": 12,
+        "name": "Sass",
+        "url": "/img/Sass.svg"
+    },
+    {
+        "id": 13,
+        "name": "TypeScript",
+        "url": "/img/typescript.avif"
+    },
+    {
+        "id": 14,
+        "name": "Vite",
+        "url": "/img/vite.svg"
+    },
+    {
+        "id": 15,
+        "name": "Vue",
+        "url": "/img/Vue.js.svg"
+    },
+    {
+        "id": 16,
+        "name": "Apache",
+        "url": "/img/apache.svg"
+    },
+    {
+        "id": 17,
+        "name": "HTML",
+        "url": "/img/HTML5.png"
+    },
+    {
+        "id": 18,
+        "name": "GitHub",
+        "url": "/img/github-white.svg"
+    },
+    {
+        "id": 19,
+        "name": "Git",
+        "url": "/img/Git.svg"
+    },
+    {
+        "id": 20,
+        "name": "GitLab",
+        "url": "/img/gitlab.svg"
+    },
+    {
+        "id": 21,
+        "name": "Kotlin",
+        "url": "/img/Kotlin.png"
+    },
+    {
+        "id": 22,
+        "name": "Swift",
+        "url": "/img/Swift.svg"
+    },
+    {
+        "id": 23,
+        "name": "C++",
+        "url": "/img/C++.png"
+    },
+    {
+        "id": 24,
+        "name": "Flutter",
+        "url": "/img/flutter.svg"
+    },
+    {
+        "id": 25,
+        "name": "Dart",
+        "url": "/img/dart.svg"
+    },
+    {
+        "id": 26,
+        "name": "FastAPI",
+        "url": "/img/FastAPI.svg"
+    },
+    {
+        "id": 27,
+        "name": "OpenMP",
+        "url": "/img/OpenMP.png"
+    },
+    {
+        "id": 28,
+        "name": "PostgreSQL",
+        "url": "/img/Postgre.svg"
+    },
+    {
+        "id": 29,
+        "name": "MATLAB",
+        "url": "/img/Matlab.png"
+    },
+    {
+        "id": 30,
+        "name": "Java",
+        "url": "/img/java.svg"
+    },
+    {
+        "id": 31,
+        "name": "Figma",
+        "url": "/img/Figma.svg"
+    },
+    {
+        "id": 32,
+        "name": "PHP",
+        "url": "/img/php.svg"
+    },
+    {
+        "id": 33,
+        "name": "Microsoft Azure",
+        "url": "/img/Microsoft_Azure.svg"
+    },
+    {
+        "id": 34,
+        "name": "Firebase",
+        "url": "/img/Firebase.svg"
+    },
+    {
+        "id": 35,
+        "name": "Slack",
+        "url": "/img/slack.svg"
+    },
+    {
+        "id": 36,
+        "name": "Discord",
+        "url": "/img/discord.svg"
+    },
+    {
+        "id": 37,
+        "name": "Scala",
+        "url": "/img/Scala.svg"
+    },
+    {
+        "id": 38,
+        "name": "Google Cloud",
+        "url": "/img/google-cloud.svg"
+    },
+    {
+        "id": 39,
+        "name": "Google Apps Script",
+        "url": "/img/Google_Apps_Script.svg"
+    },
+    {
+        "id": 40,
+        "name": "PhpMyAdmin",
+        "url": "/img/PhpMyAdmin_logo.svg"
+    },
+    {
+        "id": 41,
+        "name": "Unity",
+        "url": "/img/unity.svg"
+    },
+    {
+        "id": 42,
+        "name": "Amazon Web Services",
+        "url": "/img/Amazon_Web_Services_Logo.svg"
+    },
+    {
+        "id": 43,
+        "name": "Terraform",
+        "url": "/img/Terraform_Logo.svg"
+    },
+    {
+        "id": 44,
+        "name": "Postman",
+        "url": "/img/postman.svg"
+    },
+    {
+        "id": 45,
+        "name": "Composer",
+        "url": "/img/composer.png"
+    },
+    {
+        "id": 46,
+        "name": "npm",
+        "url": "/img/Npm.svg"
+    },
+    {
+        "id": 47,
+        "name": "Ruby on Rails",
+        "url": "/img/Ruby_On_Rails.svg"
+    },
+    {
+        "id": 48,
+        "name": "GNU Octave",
+        "url": "/img/octave-logo.svg"
+    },
+    {
+        "id": 49,
+        "name": "GNU",
+        "url": "/img/Heckert_GNU_white.svg"
+    },
+    {
+        "id": 50,
+        "name": "NVIDIA",
+        "url": "/img/nvidia.svg"
+    },
+    {
+        "id": 51,
+        "name": "AMD",
+        "url": "/img/AMD_Logo.svg"
+    },
+    {
+        "id": 52,
+        "name": "arm",
+        "url": "/img/Arm.svg"
+    },
+    {
+        "id": 53,
+        "name": "Tailwind CSS",
+        "url": "/img/tailwindcss-mark.svg"
+    },
+    {
+        "id": 54,
+        "name": "tailwind-merge",
+        "url": "/img/tailwind-merge.svg"
+    },
+    {
+        "id": 55,
+        "name": "nodemon",
+        "url": "/img/nodemon.png"
+    },
+    {
+        "id": 56,
+        "name": "OrbStack",
+        "url": "/img/orbstack.png"
+    },
+    {
+        "id": 57,
+        "name": "Json Web Token",
+        "url": "/img/jwt.svg"
+    },
+    {
+        "id": 58,
+        "name": "Prisma",
+        "url": "/img/Prisma-LightSymbol.svg"
+    },
+    {
+        "id": 59,
+        "name": "MongoDB",
+        "url": "/img/MongoDB.svg"
+    },
+    {
+        "id": 60,
+        "name": "Wireshark",
+        "url": "/img/Wireshark.png"
+    },
+    {
+        "id": 61,
+        "name": "Wfuzz",
+        "url": "/img/wfuzz.svg"
+    },
+    {
+        "id": 62,
+        "name": "Hydra",
+        "url": "/img/hydra-logo.svg"
+    },
+    {
+        "id": 63,
+        "name": "Gobuster",
+        "url": "/img/gobuster-logo.svg"
+    },
+    {
+        "id": 64,
+        "name": "Nmap",
+        "url": "/img/nmap-logo.svg"
+    },
+    {
+        "id": 65,
+        "name": "John the Ripper",
+        "url": "/img/john-logo.svg"
+    },
+    {
+        "id": 66,
+        "name": "WordPress",
+        "url": "/img/WordPress-logotype-wmark-white.png"
+    },
+    {
+        "id": 67,
+        "name": "webpack",
+        "url": "/img/webpack.svg"
+    },
+    {
+        "id": 68,
+        "name": "Deno",
+        "url": "/img/deno.svg"
+    },
+    {
+        "id": 69,
+        "name": "Bun",
+        "url": "/img/bun.svg"
+    },
+    {
+        "id": 70,
+        "name": "Vitest",
+        "url": "/img/vitest.svg"
+    },
+    {
+        "id": 71,
+        "name": "Jest",
+        "url": "/img/jest.png"
+    },
+    {
+        "id": 72,
+        "name": "Playwigtht",
+        "url": "/img/playwright-logo.svg"
+    }
+]
