@@ -1,8 +1,13 @@
 import React from "react";
+import { twMerge } from "tailwind-merge";
 
-function Footer() {
+interface FooterProps {
+    className?: string;
+}
+
+function Footer({ className }: FooterProps) {
     return (
-        <footer className="text-[#69227d] text-[12px] h-[30px] text-center">
+        <footer className={twMerge("text-[#69227d] text-[12px] text-center", className)}>
             <p>© 2025 Mizuki Aoki</p>
         </footer>
     );
